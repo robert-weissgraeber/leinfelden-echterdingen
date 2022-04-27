@@ -1,14 +1,25 @@
 ## Protest gegen die Personalstrategie der Stadt Leinfelden-Echterdingen
+## Für Kindergärten und Kindertagesstädten
 
-Die Stadt…
+Die Stadt hat bereits flächendeckende Reduktion der Öffnungszeiten der KiGas umgesetzt, worunter insbesondere die Eltern leiden.
 
-deswegen passiert…
+Die Verwaltung gibt als Grund fehlendes Personal an, wobei aber ignoriert wird, dass sie für die Situation des Personals selber zuständig sind.
 
-Problem: keinen in der Verwaltung oder Gemeinderat interessiert es
+Deswegen verschlimmert sich seit 6 Jahren die Situation zunehmend.
 
-### Demonstration
+Problem: keinen in der Verwaltung oder Gemeinderat interessiert es. Berichte der Stadtverwaltung im Gemeinderat finden nicht statt, Rückfragen der Bürger werden in Arbeitskreise ohne Ergebnisse verwiesen.
 
-Sitzung des Ausschußes am…
+
+
+### Demonstration: 3.5.2022
+
+* Am 3.5. tagt der Verwaltungs-, Kultur- und Sozialausschuss (https://www.leinfelden-echterdingen.sitzung-online.de/to010?SILFDNR=1233&refresh=false)
+* 18 Uhr, in der Zehntscheuer
+* öffentlichee Veranstaltung
+
+Lasst uns dort die Präsenz der Eltern zeigen, damit unsere Situation wahrgenommen wird.
+
+Demonstrationsbeginn 17:45 Uhr
 
 
 
@@ -16,10 +27,7 @@ Sitzung des Ausschußes am…
 
 ### Verantwortlich
 
-Robert Weißgraeber
-
-weissgraeber@googlemail.com
-
-Karlsruher Str. 48
-
-70771 Leinfelden-Echterdingen
+Robert Weißgraeber,
+   weissgraeber@googlemail.com, 
+   Karlsruher Str. 48,
+   70771 Leinfelden-Echterdingen
