@@ -27,6 +27,11 @@ Demonstrationsbeginn 17:45 Uhr
 * Bedarf und Forderungen der Erzieher:innen und Kitaleitungen wird ignoriert
 * keine erfolgreichen Massnahmen zur Personal-neugewinnung
 
+### Ziele
+* Personalfluktuation von Bestandspersonal auf überdurchschnittliche Qualität bringen
+* erfolgreiche Neu-Gewinnung von Erzieher:innen
+* damit wieder flächendeck volle Öffnungszeiten angeboten werden
+
 
 
 ### Fragen & Diskussion
