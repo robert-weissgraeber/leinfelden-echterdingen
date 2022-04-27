@@ -22,7 +22,8 @@ Lasst uns dort die Präsenz der Eltern zeigen, damit unsere Situation wahrgenomm
 Demonstrationsbeginn 17:45 Uhr
 
 
-
+### Fragen & Diskussion
+* hier: [https://github.com/robert-weissgraeber/robert-weissgraeber/discussions]
 
 
 ### Verantwortlich
