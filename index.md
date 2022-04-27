@@ -13,7 +13,7 @@ Problem: keinen in der Verwaltung oder Gemeinderat interessiert es. Berichte der
 
 ### Demonstration: 3.5.2022
 
-* Am 3.5. tagt der Verwaltungs-, Kultur- und Sozialausschuss [https://www.leinfelden-echterdingen.sitzung-online.de/to010?SILFDNR=1233&refresh=false]
+* Am 3.5. tagt der Verwaltungs-, Kultur- und Sozialausschuss [Terminplan](https://www.leinfelden-echterdingen.sitzung-online.de/to010?SILFDNR=1233&refresh=false)
 * um 18 Uhr, in der Zehntscheuer
 * öffentliche Veranstaltung
 
@@ -30,7 +30,7 @@ Demonstrationsbeginn 17:45 Uhr
 
 
 ### Fragen & Diskussion
-* hier: [https://github.com/robert-weissgraeber/robert-weissgraeber/discussions]
+* hier: [Diskussion](https://github.com/robert-weissgraeber/robert-weissgraeber/discussions)
 
 
 ### Verantwortlich
