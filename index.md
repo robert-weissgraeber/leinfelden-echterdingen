@@ -15,13 +15,14 @@ Problem: keinen in der Verwaltung oder Gemeinderat interessiert es. Berichte der
 
 * Am 3.5. tagt der Verwaltungs-, Kultur- und Sozialausschuss [https://www.leinfelden-echterdingen.sitzung-online.de/to010?SILFDNR=1233&refresh=false]
 * um 18 Uhr, in der Zehntscheuer
-* öffentlichee Veranstaltung
+* öffentliche Veranstaltung
 
 Lasst uns dort die Präsenz der Eltern zeigen, damit unsere Situation wahrgenommen wird.
 
 Demonstrationsbeginn 17:45 Uhr
 
-### Probleme der Personalstrategie
+### Probleme der Personalstrategie, die es zu lösen gilt
+* keine vernünftiges Personalmanagement durch die Stadtverwaltung
 * Um das Bestandspersonal  wird sich nicht gekümmert
 * Bedarf und Forderungen der Erzieher:innen und Kitaleitungen wird ignoriert
 * keine erfolgreichen Massnahmen zur Personal-neugewinnung
