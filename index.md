@@ -13,13 +13,19 @@ Problem: keinen in der Verwaltung oder Gemeinderat interessiert es. Berichte der
 
 ### Demonstration: 3.5.2022
 
-* Am 3.5. tagt der Verwaltungs-, Kultur- und Sozialausschuss (https://www.leinfelden-echterdingen.sitzung-online.de/to010?SILFDNR=1233&refresh=false)
-* 18 Uhr, in der Zehntscheuer
+* Am 3.5. tagt der Verwaltungs-, Kultur- und Sozialausschuss [https://www.leinfelden-echterdingen.sitzung-online.de/to010?SILFDNR=1233&refresh=false]
+* um 18 Uhr, in der Zehntscheuer
 * öffentlichee Veranstaltung
 
 Lasst uns dort die Präsenz der Eltern zeigen, damit unsere Situation wahrgenommen wird.
 
 Demonstrationsbeginn 17:45 Uhr
+
+### Probleme der Personalstrategie
+* Um das Bestandspersonal  wird sich nicht gekümmert
+* Bedarf und Forderungen der Erzieher:innen und Kitaleitungen wird ignoriert
+* keine erfolgreichen Massnahmen zur Personal-neugewinnung
+
 
 
 ### Fragen & Diskussion
