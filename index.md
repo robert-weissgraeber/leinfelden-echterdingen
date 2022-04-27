@@ -1,5 +1,6 @@
-## Protest gegen die Kindergarten-Personalstrategie der Stadt Leinfelden-Echterdingen
-## Für Kindergärten und Kindertagesstätten
+## Geschlossene Kindergärten — LEere Versprechen
+### Protest gegen die Kindergarten-Personalstrategie der Stadt Leinfelden-Echterdingen
+### Für Kindergärten und Kindertagesstätten
 
 Die Stadt hat bereits flächendeckende Reduktion der Öffnungszeiten der KiGas umgesetzt, worunter insbesondere die Eltern leiden.
 
