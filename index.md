@@ -1,5 +1,5 @@
-## Protest gegen die Personalstrategie der Stadt Leinfelden-Echterdingen
-## Für Kindergärten und Kindertagesstädten
+## Protest gegen die Kindergarten-Personalstrategie der Stadt Leinfelden-Echterdingen
+## Für Kindergärten und Kindertagesstätten
 
 Die Stadt hat bereits flächendeckende Reduktion der Öffnungszeiten der KiGas umgesetzt, worunter insbesondere die Eltern leiden.
 
