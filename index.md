@@ -34,6 +34,10 @@ Demonstrationsbeginn 17:45 Uhr
 * damit wieder flächendeck volle Öffnungszeiten angeboten werden
 
 
+![Logo](/eltern-le.png)
+
+
+
 
 ### Fragen & Diskussion
 * hier: [Diskussion](https://github.com/robert-weissgraeber/robert-weissgraeber/discussions)
