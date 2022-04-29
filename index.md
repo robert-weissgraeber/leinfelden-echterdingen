@@ -31,7 +31,7 @@ Demonstrationsbeginn 17:45 Uhr
 ### Ziele
 * Personalfluktuation von Bestandspersonal auf überdurchschnittliche Qualität bringen
 * erfolgreiche Neu-Gewinnung von Erzieher:innen
-* damit wieder flächendeck volle Öffnungszeiten angeboten werden
+* damit wieder flächendecken volle Öffnungszeiten angeboten werden
 
 
 ![Logo](/eltern-le.png)
