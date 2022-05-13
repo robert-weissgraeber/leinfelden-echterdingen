@@ -10,17 +10,18 @@ Deswegen verschlimmert sich seit 6 Jahren die Situation zunehmend.
 
 Problem: keinen in der Verwaltung oder Gemeinderat interessiert es. Berichte der Stadtverwaltung im Gemeinderat finden nicht statt, Rückfragen der Bürger werden in Arbeitskreise ohne Ergebnisse verwiesen.
 
+# Unterzeichnet den Offenen Brief:
+https://docs.google.com/document/d/1sgoKyzUzilPeFKnjP69gx77n3GHNToklbEc6-bSObmM/edit
+
+wir haben durch unsere Demo und Gespräche erste Aufmerksamkeit bei Verwaltung und Gemeinderat geweckt, leider hält die Stadt ihre Maßnahmen weiterhin für ausreichend.
+
+Da die Lage sich zusehends verschlechtert, können wir weiter Druck aufbauen, damit die handelnden Akteure unsere Probleme genauso erst nehmen wie ein neues Hallenbald oder das die Sanierung des Bodenbelages der Altstadt.
+
+Daher bitte den offenen Brief mit eurem Namen ergänzen, damit dies nicht als Einzeltäter-Aktion abgetan werden kann:
+
+[https://docs.google.com/document/d/1sgoKyzUzilPeFKnjP69gx77n3GHNToklbEc6-bSObmM/edit]
 
 
-### Demonstration: 3.5.2022
-
-* Am 3.5. tagt der Verwaltungs-, Kultur- und Sozialausschuss [Terminplan](https://www.leinfelden-echterdingen.sitzung-online.de/to010?SILFDNR=1233&refresh=false)
-* um 18 Uhr, in der Zehntscheuer
-* öffentliche Veranstaltung
-
-Lasst uns dort die Präsenz der Eltern zeigen, damit unsere Situation wahrgenommen wird.
-
-Demonstrationsbeginn 17:45 Uhr
 
 ### Probleme der Personalstrategie, die es zu lösen gilt
 * keine vernünftiges Personalmanagement durch die Stadtverwaltung
@@ -38,10 +39,13 @@ Demonstrationsbeginn 17:45 Uhr
 
 
 
+### Demonstration: 3.5.2022
 
-### Fragen & Diskussion
-* hier: [Diskussion](https://github.com/robert-weissgraeber/robert-weissgraeber/discussions)
+* Am 3.5. tagte der Verwaltungs-, Kultur- und Sozialausschuss [Terminplan](https://www.leinfelden-echterdingen.sitzung-online.de/to010?SILFDNR=1233&refresh=false)
+* um 18 Uhr, in der Zehntscheuer
+* öffentliche Veranstaltung
 
+* In der Zeitung: https://www.stuttgarter-nachrichten.de/inhalt.erziehermangel-in-leinfelden-echterdingen-familien-machen-ihrem-aerger-luft.08c7afe7-3fc8-4c40-a6f2-8cb553ad417b.html?reduced=true
 
 ### Verantwortlich
 
