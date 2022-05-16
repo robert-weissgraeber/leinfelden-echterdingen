@@ -37,7 +37,7 @@ Wir haben durch unsere Demo und Gespräche erste Aufmerksamkeit bei Verwaltung u
 
 Da die Lage sich zusehends verschlechtert, können wir weiter Druck aufbauen, damit die handelnden Akteure unsere Probleme genauso erst nehmen wie ein neues Hallenbald oder das die Sanierung des Bodenbelages der Altstadt.
 
-[offener Brief]([)https://www.zukunft-le.de/offener-brief-OB-Klenk-mai-2022-leinfelden-echterdingen.pdf)
+[offener Brief](https://www.zukunft-le.de/offener-brief-OB-Klenk-mai-2022-leinfelden-echterdingen.pdf)
 
 
 
