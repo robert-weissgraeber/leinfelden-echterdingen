@@ -10,16 +10,6 @@ Deswegen verschlimmert sich seit 6 Jahren die Situation zunehmend.
 
 Problem: keinen in der Verwaltung oder Gemeinderat interessiert es. Berichte der Stadtverwaltung im Gemeinderat finden nicht statt, Rückfragen der Bürger werden in Arbeitskreise ohne Ergebnisse verwiesen.
 
-# Unterzeichnet den Offenen Brief:
-https://docs.google.com/document/d/1sgoKyzUzilPeFKnjP69gx77n3GHNToklbEc6-bSObmM/edit
-
-wir haben durch unsere Demo und Gespräche erste Aufmerksamkeit bei Verwaltung und Gemeinderat geweckt, leider hält die Stadt ihre Maßnahmen weiterhin für ausreichend.
-
-Da die Lage sich zusehends verschlechtert, können wir weiter Druck aufbauen, damit die handelnden Akteure unsere Probleme genauso erst nehmen wie ein neues Hallenbald oder das die Sanierung des Bodenbelages der Altstadt.
-
-Daher bitte den offenen Brief mit eurem Namen ergänzen, damit dies nicht als Einzeltäter-Aktion abgetan werden kann:
-
-[https://docs.google.com/document/d/1sgoKyzUzilPeFKnjP69gx77n3GHNToklbEc6-bSObmM/edit]
 
 
 
@@ -36,6 +26,14 @@ Daher bitte den offenen Brief mit eurem Namen ergänzen, damit dies nicht als Ei
 
 
 ![Logo](/eltern-le.png)
+
+
+### den Offener Brief an Oberbürgermeister Klenk:
+Wir haben durch unsere Demo und Gespräche erste Aufmerksamkeit bei Verwaltung und Gemeinderat geweckt, leider hält die Stadt ihre Maßnahmen weiterhin für ausreichend.
+
+Da die Lage sich zusehends verschlechtert, können wir weiter Druck aufbauen, damit die handelnden Akteure unsere Probleme genauso erst nehmen wie ein neues Hallenbald oder das die Sanierung des Bodenbelages der Altstadt.
+
+(offener Brief)[https://www.zukunft-le.de/offener-brief-OB-Klenk-mai-2022-leinfelden-echterdingen.pdf]
 
 
 
