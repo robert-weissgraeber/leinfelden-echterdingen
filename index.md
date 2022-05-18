@@ -54,6 +54,7 @@ Da die Lage sich zusehends verschlechtert, können wir weiter Druck aufbauen, da
 
 ## Verantwortlich
 
+
 Robert Weißgraeber,
    weissgraeber@googlemail.com, 
    Karlsruher Str. 48,
