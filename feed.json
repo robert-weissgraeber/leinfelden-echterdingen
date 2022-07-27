@@ -5,7 +5,7 @@
     "home_page_url": "https://zukunft-le.de",
     "feed_url": "https://zukunft-le.de/feed.json",
     "user_comment": "",
-    "icon": "https://zukunft-le.de/media/website/logo-2.png",
+    "icon": "https://zukunft-le.de/media/website/logo-3.png",
     "author": {
         "name": "Robert Weißgraeber"
     },
@@ -22,11 +22,12 @@
             },
             "tags": [
                    "Grüne",
+                   "Gemeinderäte",
                    "Freie Wähler / FDP",
                    "CDU"
             ],
             "date_published": "2022-07-27T15:32:10+02:00",
-            "date_modified": "2022-07-27T17:36:02+02:00"
+            "date_modified": "2022-07-27T18:53:16+02:00"
         },
         {
             "id": "https://zukunft-le.de/ob-klenk-familien-verzichten-auf-ihren-urlaub-dann-koennen-sie-sich-auch-die-kita-gebuehren-leisten/",
@@ -143,15 +144,15 @@
             "id": "https://zukunft-le.de/mitmachen/",
             "url": "https://zukunft-le.de/mitmachen/",
             "title": "Mitmachen?",
-            "summary": "Beteiligte und betroffene Eltern Wir Eltern organisieren uns bisher lose in einer gemeinsamen Whats-App Gruppe, ihr könnt einfach beitreten:&nbsp;https://chat.whatsapp.com/IA25j1n1kZbD56Yx9QURKy Aktione",
-            "content_html": "\n    <h2 id=\"beteiligte-und-betroffene-eltern\">\n      Beteiligte und betroffene Eltern\n    </h2>\n\n  <p>\n    Wir Eltern organisieren uns bisher lose in einer gemeinsamen Whats-App Gruppe, ihr könnt einfach beitreten:&nbsp;<a href=\"https://chat.whatsapp.com/IA25j1n1kZbD56Yx9QURKy\">https://chat.whatsapp.com/IA25j1n1kZbD56Yx9QURKy</a>\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://zukunft-le.de/media/posts/12/whatsapp.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://zukunft-le.de/media/posts/12/responsive/whatsapp-xs.jpg 300w ,https://zukunft-le.de/media/posts/12/responsive/whatsapp-sm.jpg 480w ,https://zukunft-le.de/media/posts/12/responsive/whatsapp-md.jpg 768w ,https://zukunft-le.de/media/posts/12/responsive/whatsapp-lg.jpg 1024w ,https://zukunft-le.de/media/posts/12/responsive/whatsapp-xl.jpg 1360w ,https://zukunft-le.de/media/posts/12/responsive/whatsapp-2xl.jpg 1600w\"  height=\"538\" width=\"520\" alt=\"\" />\n      \n    </figure>\n\n    <h2 id=\"aktione\">\n      Aktione\n    </h2>",
+            "summary": "Beteiligte und betroffene Eltern Wir Eltern organisieren uns bisher lose in einer gemeinsamen Whats-App Gruppe, ihr könnt einfach beitreten:&nbsp;https://chat.whatsapp.com/IA25j1n1kZbD56Yx9QURKy",
+            "content_html": "\n    <h2 id=\"beteiligte-und-betroffene-eltern\">\n      Beteiligte und betroffene Eltern\n    </h2>\n\n  <p>\n    Wir Eltern organisieren uns bisher lose in einer gemeinsamen Whats-App Gruppe, ihr könnt einfach beitreten:&nbsp;<a href=\"https://chat.whatsapp.com/IA25j1n1kZbD56Yx9QURKy\">https://chat.whatsapp.com/IA25j1n1kZbD56Yx9QURKy</a>\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://zukunft-le.de/media/posts/12/whatsapp.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://zukunft-le.de/media/posts/12/responsive/whatsapp-xs.jpg 300w ,https://zukunft-le.de/media/posts/12/responsive/whatsapp-sm.jpg 480w ,https://zukunft-le.de/media/posts/12/responsive/whatsapp-md.jpg 768w ,https://zukunft-le.de/media/posts/12/responsive/whatsapp-lg.jpg 1024w ,https://zukunft-le.de/media/posts/12/responsive/whatsapp-xl.jpg 1360w ,https://zukunft-le.de/media/posts/12/responsive/whatsapp-2xl.jpg 1600w\"  height=\"538\" width=\"520\" alt=\"\" />\n      \n    </figure>",
             "author": {
                 "name": "Robert Weißgraeber"
             },
             "tags": [
             ],
             "date_published": "2022-01-01T17:06:00+01:00",
-            "date_modified": "2022-07-27T17:08:57+02:00"
+            "date_modified": "2022-07-27T18:47:30+02:00"
         },
         {
             "id": "https://zukunft-le.de/stadt-sitzt-offenbar-betrugsmasche-auf/",

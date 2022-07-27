@@ -3,7 +3,7 @@
     <title>Zukunft LE</title>
     <link href="https://zukunft-le.de/feed.xml" rel="self" />
     <link href="https://zukunft-le.de" />
-    <updated>2022-07-27T17:36:02+02:00</updated>
+    <updated>2022-07-27T18:53:16+02:00</updated>
     <author>
         <name>Robert Weißgraeber</name>
     </author>
@@ -17,10 +17,11 @@
         <link href="https://zukunft-le.de/gebuehrenerhoehung-um-5-in-le/"/>
         <id>https://zukunft-le.de/gebuehrenerhoehung-um-5-in-le/</id>
             <category term="Grüne"/>
+            <category term="Gemeinderäte"/>
             <category term="Freie Wähler / FDP"/>
             <category term="CDU"/>
 
-        <updated>2022-07-27T17:36:02+02:00</updated>
+        <updated>2022-07-27T18:53:16+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://zukunft-le.de/media/posts/11/IMG_2489-2.jpg" alt="" />
@@ -314,10 +315,10 @@
         <link href="https://zukunft-le.de/mitmachen/"/>
         <id>https://zukunft-le.de/mitmachen/</id>
 
-        <updated>2022-07-27T17:08:57+02:00</updated>
+        <updated>2022-07-27T18:47:30+02:00</updated>
             <summary>
                 <![CDATA[
-                    Beteiligte und betroffene Eltern Wir Eltern organisieren uns bisher lose in einer gemeinsamen Whats-App Gruppe, ihr könnt einfach beitreten:&nbsp;https://chat.whatsapp.com/IA25j1n1kZbD56Yx9QURKy Aktione
+                    Beteiligte und betroffene Eltern Wir Eltern organisieren uns bisher lose in einer gemeinsamen Whats-App Gruppe, ihr könnt einfach beitreten:&nbsp;https://chat.whatsapp.com/IA25j1n1kZbD56Yx9QURKy
                 ]]>
             </summary>
         <content type="html">
@@ -335,10 +336,6 @@
       <img loading="lazy" src="https://zukunft-le.de/media/posts/12/whatsapp.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://zukunft-le.de/media/posts/12/responsive/whatsapp-xs.jpg 300w ,https://zukunft-le.de/media/posts/12/responsive/whatsapp-sm.jpg 480w ,https://zukunft-le.de/media/posts/12/responsive/whatsapp-md.jpg 768w ,https://zukunft-le.de/media/posts/12/responsive/whatsapp-lg.jpg 1024w ,https://zukunft-le.de/media/posts/12/responsive/whatsapp-xl.jpg 1360w ,https://zukunft-le.de/media/posts/12/responsive/whatsapp-2xl.jpg 1600w"  height="538" width="520" alt="" />
       
     </figure>
-
-    <h2 id="aktione">
-      Aktione
-    </h2>
             ]]>
         </content>
     </entry>
