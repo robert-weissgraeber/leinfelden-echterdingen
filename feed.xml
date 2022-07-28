@@ -3,7 +3,7 @@
     <title>Zukunft LE</title>
     <link href="https://zukunft-le.de/feed.xml" rel="self" />
     <link href="https://zukunft-le.de" />
-    <updated>2022-07-27T19:56:02+02:00</updated>
+    <updated>2022-07-28T13:40:37+02:00</updated>
     <author>
         <name>Robert Weißgraeber</name>
     </author>
@@ -104,6 +104,35 @@
         <content type="html">
             <![CDATA[
                 <p>O-Ton von Hr. OB Klenk in der <a href="https://zukunft-le.de/gebuehrenerhoehung-um-5-in-le/">Gemeinderatssitzung zur Gebührenerhöhung</a> im Juli 2022.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Mehr Geld für weniger Leistung?</title>
+        <author>
+            <name>Robert Weißgraeber</name>
+        </author>
+        <link href="https://zukunft-le.de/mehr-geld-fuer-weniger-leistung/"/>
+        <id>https://zukunft-le.de/mehr-geld-fuer-weniger-leistung/</id>
+            <category term="Medienecho"/>
+
+        <updated>2022-07-28T13:40:37+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Wer einen Kitaplatz hat, muss mit eingeschränkten Betreuungszeiten rechnen, andere Familien finden erst gar keinen. Dennoch sollen die Gebühren steigen. Stuttgarter Zeitung Quelle
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+    <figure class="blockquote">
+      <blockquote>Wer einen Kitaplatz hat, muss mit eingeschränkten Betreuungszeiten rechnen, andere Familien finden erst gar keinen. Dennoch sollen die Gebühren steigen.</blockquote>
+      <figcaption>Stuttgarter Zeitung</figcaption>
+    </figure>
+
+  <p>
+    <a href="https://www.stuttgarter-zeitung.de/inhalt.kinderbetreuung-auf-den-fildern-mehr-geld-fuer-weniger-leistung.2ebd91f9-b714-4a7b-a3ab-c91a8372396b.html?reduced=true">Quelle</a>
+  </p>
             ]]>
         </content>
     </entry>
@@ -348,41 +377,6 @@
       <img loading="lazy" src="https://zukunft-le.de/media/posts/12/whatsapp.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://zukunft-le.de/media/posts/12/responsive/whatsapp-xs.jpg 300w ,https://zukunft-le.de/media/posts/12/responsive/whatsapp-sm.jpg 480w ,https://zukunft-le.de/media/posts/12/responsive/whatsapp-md.jpg 768w ,https://zukunft-le.de/media/posts/12/responsive/whatsapp-lg.jpg 1024w ,https://zukunft-le.de/media/posts/12/responsive/whatsapp-xl.jpg 1360w ,https://zukunft-le.de/media/posts/12/responsive/whatsapp-2xl.jpg 1600w"  height="538" width="520" alt="" />
       
     </figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>&quot;Stadt sitzt offenbar Betrugsmasche auf&quot;</title>
-        <author>
-            <name>Robert Weißgraeber</name>
-        </author>
-        <link href="https://zukunft-le.de/stadt-sitzt-offenbar-betrugsmasche-auf/"/>
-        <id>https://zukunft-le.de/stadt-sitzt-offenbar-betrugsmasche-auf/</id>
-            <category term="Medienecho"/>
-
-        <updated>2022-07-27T16:44:55+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://zukunft-le.de/media/posts/10/writing-newspaper-money-paper-close-up-brand-937591-pxhere.com.jpg" alt="" />
-                    Die Kommune ist, wie zu erfahren war, offenbar einer Betrugsmasche aufgesessen. So wie das anderen Städten auch schon passiert ist.&nbsp; Stuttgarter Zeitung Quelle
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://zukunft-le.de/media/posts/10/writing-newspaper-money-paper-close-up-brand-937591-pxhere.com.jpg" alt="" />
-                
-    <figure class="blockquote">
-      <blockquote>Die Kommune ist, wie zu erfahren war, offenbar einer Betrugsmasche aufgesessen. So wie das anderen Städten auch schon passiert ist.&nbsp;</blockquote>
-      <figcaption>Stuttgarter Zeitung</figcaption>
-    </figure>
-
-  <p>
-    <a href="https://www.stuttgarter-zeitung.de/inhalt.kita-in-leinfelden-echterdingen-stadt-sitzt-offenbar-betrugsmasche-auf.5764f102-6066-4dd0-8e50-dbf12fc2266c.html">Quelle</a>
-  </p>
-
-  <p>
-    
-  </p>
             ]]>
         </content>
     </entry>

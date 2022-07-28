@@ -45,6 +45,21 @@
             "date_modified": "2022-07-27T16:20:08+02:00"
         },
         {
+            "id": "https://zukunft-le.de/mehr-geld-fuer-weniger-leistung/",
+            "url": "https://zukunft-le.de/mehr-geld-fuer-weniger-leistung/",
+            "title": "Mehr Geld für weniger Leistung?",
+            "summary": "Wer einen Kitaplatz hat, muss mit eingeschränkten Betreuungszeiten rechnen, andere Familien finden erst gar keinen. Dennoch sollen die Gebühren steigen. Stuttgarter Zeitung Quelle",
+            "content_html": "\n    <figure class=\"blockquote\">\n      <blockquote>Wer einen Kitaplatz hat, muss mit eingeschränkten Betreuungszeiten rechnen, andere Familien finden erst gar keinen. Dennoch sollen die Gebühren steigen.</blockquote>\n      <figcaption>Stuttgarter Zeitung</figcaption>\n    </figure>\n\n  <p>\n    <a href=\"https://www.stuttgarter-zeitung.de/inhalt.kinderbetreuung-auf-den-fildern-mehr-geld-fuer-weniger-leistung.2ebd91f9-b714-4a7b-a3ab-c91a8372396b.html?reduced=true\">Quelle</a>\n  </p>",
+            "author": {
+                "name": "Robert Weißgraeber"
+            },
+            "tags": [
+                   "Medienecho"
+            ],
+            "date_published": "2022-07-22T13:40:00+02:00",
+            "date_modified": "2022-07-28T13:40:37+02:00"
+        },
+        {
             "id": "https://zukunft-le.de/stuttgarter-zeitung-viele-familien-brauchen-einen-plan-b/",
             "url": "https://zukunft-le.de/stuttgarter-zeitung-viele-familien-brauchen-einen-plan-b/",
             "title": "&quot;Viele Familien brauchen einen Plan B&quot;",
@@ -153,22 +168,6 @@
             ],
             "date_published": "2022-01-01T17:06:00+01:00",
             "date_modified": "2022-07-27T18:47:30+02:00"
-        },
-        {
-            "id": "https://zukunft-le.de/stadt-sitzt-offenbar-betrugsmasche-auf/",
-            "url": "https://zukunft-le.de/stadt-sitzt-offenbar-betrugsmasche-auf/",
-            "title": "&quot;Stadt sitzt offenbar Betrugsmasche auf&quot;",
-            "summary": "Die Kommune ist, wie zu erfahren war, offenbar einer Betrugsmasche aufgesessen. So wie das anderen Städten auch schon passiert ist.&nbsp; Stuttgarter Zeitung Quelle",
-            "content_html": "\n    <figure class=\"blockquote\">\n      <blockquote>Die Kommune ist, wie zu erfahren war, offenbar einer Betrugsmasche aufgesessen. So wie das anderen Städten auch schon passiert ist.&nbsp;</blockquote>\n      <figcaption>Stuttgarter Zeitung</figcaption>\n    </figure>\n\n  <p>\n    <a href=\"https://www.stuttgarter-zeitung.de/inhalt.kita-in-leinfelden-echterdingen-stadt-sitzt-offenbar-betrugsmasche-auf.5764f102-6066-4dd0-8e50-dbf12fc2266c.html\">Quelle</a>\n  </p>\n\n  <p>\n    \n  </p>",
-            "image": "https://zukunft-le.de/media/posts/10/writing-newspaper-money-paper-close-up-brand-937591-pxhere.com.jpg",
-            "author": {
-                "name": "Robert Weißgraeber"
-            },
-            "tags": [
-                   "Medienecho"
-            ],
-            "date_published": "2021-12-07T15:13:00+01:00",
-            "date_modified": "2022-07-27T16:44:55+02:00"
         }
     ]
 }
