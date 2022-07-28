@@ -3,7 +3,7 @@
     <title>Zukunft LE</title>
     <link href="https://zukunft-le.de/feed.xml" rel="self" />
     <link href="https://zukunft-le.de" />
-    <updated>2022-07-28T13:40:37+02:00</updated>
+    <updated>2022-07-28T13:52:42+02:00</updated>
     <author>
         <name>Robert Weißgraeber</name>
     </author>
@@ -108,7 +108,7 @@
         </content>
     </entry>
     <entry>
-        <title>Mehr Geld für weniger Leistung?</title>
+        <title>&quot;Mehr Geld für weniger Leistung?&quot;</title>
         <author>
             <name>Robert Weißgraeber</name>
         </author>
@@ -116,14 +116,16 @@
         <id>https://zukunft-le.de/mehr-geld-fuer-weniger-leistung/</id>
             <category term="Medienecho"/>
 
-        <updated>2022-07-28T13:40:37+02:00</updated>
+        <updated>2022-07-28T13:52:42+02:00</updated>
             <summary>
                 <![CDATA[
-                    Wer einen Kitaplatz hat, muss mit eingeschränkten Betreuungszeiten rechnen, andere Familien finden erst gar keinen. Dennoch sollen die Gebühren steigen. Stuttgarter Zeitung Quelle
+                        <img src="https://zukunft-le.de/media/posts/13/writing-newspaper-money-paper-close-up-brand-937591-pxhere.com.jpg" alt="" />
+                    Wer einen Kitaplatz hat, muss mit eingeschränkten Betreuungszeiten rechnen, andere Familien finden erst gar keinen. Dennoch sollen die Gebühren steigen. Stuttgarter Zeitung Quelle Anmerkung: die angekündigte Gebührenerhöhung wurde in der Zwischenzeit noch weiter erhöht, und vom Gemeinderat Leinfelden-Echterdingen beschlossen.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://zukunft-le.de/media/posts/13/writing-newspaper-money-paper-close-up-brand-937591-pxhere.com.jpg" alt="" />
                 
     <figure class="blockquote">
       <blockquote>Wer einen Kitaplatz hat, muss mit eingeschränkten Betreuungszeiten rechnen, andere Familien finden erst gar keinen. Dennoch sollen die Gebühren steigen.</blockquote>
@@ -132,6 +134,10 @@
 
   <p>
     <a href="https://www.stuttgarter-zeitung.de/inhalt.kinderbetreuung-auf-den-fildern-mehr-geld-fuer-weniger-leistung.2ebd91f9-b714-4a7b-a3ab-c91a8372396b.html?reduced=true">Quelle</a>
+  </p>
+
+  <p>
+    <i>Anmerkung:</i> die angekündigte Gebührenerhöhung wurde in der Zwischenzeit noch weiter erhöht, und vom <a href="https://zukunft-le.de/gebuehrenerhoehung-um-5-in-le/">Gemeinderat Leinfelden-Echterdingen</a> beschlossen.
   </p>
             ]]>
         </content>
