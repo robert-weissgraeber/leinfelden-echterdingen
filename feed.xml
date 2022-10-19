@@ -3,7 +3,7 @@
     <title>Zukunft LE</title>
     <link href="https://zukunft-le.de/feed.xml" rel="self" />
     <link href="https://zukunft-le.de" />
-    <updated>2022-10-13T14:49:50+02:00</updated>
+    <updated>2022-10-19T09:26:50+02:00</updated>
     <author>
         <name>Robert Weißgraeber</name>
     </author>
@@ -172,7 +172,7 @@
             <category term="Gemeinderäte"/>
             <category term="Freie Wähler / FDP"/>
 
-        <updated>2022-09-25T17:13:22+02:00</updated>
+        <updated>2022-10-19T09:26:50+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://zukunft-le.de/media/posts/28/arnaud-jaegers-IBWJsMObnnU-unsplash.jpg" alt="" />
@@ -200,8 +200,13 @@
   </p>
 
   <p>
-    Der Aspekt "Frühkindlichen Bildung und Chancengleichheit" ist hier den Grünen in Leinfelden-Echterdingen auch nur in der Kernbetreuung 8-14 Uhr relevant (Armbruster, Quelle s.o.).
+    Der Aspekt "Frühkindlichen Bildung und Chancengleichheit" ist hier den Grünen in Leinfelden-Echterdingen auch nur in der Kernbetreuung 8-14 Uhr relevant (Armbruster, Quelle s.o.):
   </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://zukunft-le.de/media/posts/28/armbruster.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://zukunft-le.de/media/posts/28/responsive/armbruster-xs.jpg 300w ,https://zukunft-le.de/media/posts/28/responsive/armbruster-sm.jpg 480w ,https://zukunft-le.de/media/posts/28/responsive/armbruster-md.jpg 768w ,https://zukunft-le.de/media/posts/28/responsive/armbruster-lg.jpg 1024w ,https://zukunft-le.de/media/posts/28/responsive/armbruster-xl.jpg 1360w ,https://zukunft-le.de/media/posts/28/responsive/armbruster-2xl.jpg 1600w"  height="146" width="652" alt="" />
+      <figcaption>Stellungnahme der Grünen zu den Zielen der Kinderbetreuung für LE, Amtsblatt KW28</figcaption>
+    </figure>
 
     <h2 id="das-abstimmungsverhalten-ist-ausschlaggebend">
       Das Abstimmungsverhalten ist ausschlaggebend
