@@ -3,7 +3,7 @@
     <title>Zukunft LE</title>
     <link href="https://zukunft-le.de/feed.xml" rel="self" />
     <link href="https://zukunft-le.de" />
-    <updated>2022-10-25T14:22:08+02:00</updated>
+    <updated>2022-10-25T14:45:00+02:00</updated>
     <author>
         <name>Robert Weißgraeber</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://zukunft-le.de/60-prozent-rueckbau-der-staedtischen-kinderbetreuung/</id>
             <category term="Position"/>
 
-        <updated>2022-10-25T14:22:08+02:00</updated>
+        <updated>2022-10-25T14:45:00+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://zukunft-le.de/media/posts/33/kelly-sikkema-VlW-iHf_MAk-unsplash.jpg" alt="" />
@@ -50,7 +50,7 @@
     </h3>
 
   <p>
-    Während das auf den ersten Blick schon schlimm genug aussieht, muss man natürlich den Teil der <b>Ganztagsbetreuung</b> betrachten, der bereits schon seit 2013 eine <i>Pflichtaufgabe</i> der Kommunen ist.<br> <br>Die Zeiten wurden im Durchschnitt um <b>9,3h pro Woche gekürzt,</b> damit wurden die angeboten Zeiten ausserhalb der Vormittagsbetreuung (8-14h),&nbsp; <b>um über die Hälfte gekürzt! </b> – getrennt <b>für den U3 Bereich sogar 12h</b> (um 60%). <b><br></b><br>
+    Während das auf den ersten Blick schon schlimm genug aussieht, muss man natürlich den Teil der <b>Ganztagsbetreuung</b> betrachten, der bereits schon seit 2013 eine <i>Pflichtaufgabe</i> der Kommunen ist.<br> <br>Die Zeiten wurden im Durchschnitt um <b>9,3h pro Woche gekürzt,</b> damit wurden die angeboten Zeiten ausserhalb der Vormittagsbetreuung (8-14h),&nbsp; <b>um über die Hälfte gekürzt! </b> – getrennt <b>für den U3 Bereich sogar 12h</b> (um 60%).<b><br></b><br>
   </p>
 
     <h3 id="in-stetten-fllt-die-ganztagsbetreuung-defacto-ganz-weg">
@@ -64,6 +64,11 @@
   <p>
     Quellen &amp; Analyse: Die ganze Liste der Einrichtungen und deren Öffnungszeiten, mit Originalquelle, findet sich <a href="https://docs.google.com/spreadsheets/d/1BWwZ-_n5wJj9oyXSWfKzAcenJ22KexcY8VjqXNhzMDs/edit?usp=sharing">hier</a>.
   </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://zukunft-le.de/media/posts/33/liste-kitas-LE.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://zukunft-le.de/media/posts/33/responsive/liste-kitas-LE-xs.jpg 300w ,https://zukunft-le.de/media/posts/33/responsive/liste-kitas-LE-sm.jpg 480w ,https://zukunft-le.de/media/posts/33/responsive/liste-kitas-LE-md.jpg 768w ,https://zukunft-le.de/media/posts/33/responsive/liste-kitas-LE-lg.jpg 1024w ,https://zukunft-le.de/media/posts/33/responsive/liste-kitas-LE-xl.jpg 1360w ,https://zukunft-le.de/media/posts/33/responsive/liste-kitas-LE-2xl.jpg 1600w"  height="772" width="2034" alt="" />
+      <figcaption>Liste der Öffnungszeiten der städtischen Einrichtungen in LE</figcaption>
+    </figure>
 
     <h2 id="stdtische-kinderbetreuung-auffllig-schlecht">
       Städtische Kinderbetreuung auffällig schlecht
