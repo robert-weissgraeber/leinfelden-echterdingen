@@ -3,7 +3,7 @@
     <title>Zukunft LE</title>
     <link href="https://zukunft-le.de/feed.xml" rel="self" />
     <link href="https://zukunft-le.de" />
-    <updated>2022-11-08T10:38:33+01:00</updated>
+    <updated>2022-11-08T10:39:36+01:00</updated>
     <author>
         <name>Robert Weißgraeber</name>
     </author>
@@ -300,7 +300,7 @@ Fangen Sie an auf die unterschiedlichen Betroffenen und Beteiligten wirklich zu 
         <id>https://zukunft-le.de/60-prozent-rueckbau-der-staedtischen-kinderbetreuung/</id>
             <category term="Fakten"/>
 
-        <updated>2022-11-08T10:38:33+01:00</updated>
+        <updated>2022-11-08T10:39:36+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://zukunft-le.de/media/posts/33/kelly-sikkema-VlW-iHf_MAk-unsplash.jpg" alt="" />
@@ -347,7 +347,7 @@ Fangen Sie an auf die unterschiedlichen Betroffenen und Beteiligten wirklich zu 
     Quellen &amp; Analyse: Die ganze Liste der Einrichtungen und deren Öffnungszeiten, mit Originalquelle, findet sich <a href="https://docs.google.com/spreadsheets/d/1BWwZ-_n5wJj9oyXSWfKzAcenJ22KexcY8VjqXNhzMDs/edit?usp=sharing">hier</a>.
   </p>
 
-    <figure class="post__image post__image--center">
+    <figure class="post__image post__image--wide">
       <img loading="lazy" src="https://zukunft-le.de/media/posts/33/kita-uebersicht.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://zukunft-le.de/media/posts/33/responsive/kita-uebersicht-xs.jpg 300w ,https://zukunft-le.de/media/posts/33/responsive/kita-uebersicht-sm.jpg 480w ,https://zukunft-le.de/media/posts/33/responsive/kita-uebersicht-md.jpg 768w ,https://zukunft-le.de/media/posts/33/responsive/kita-uebersicht-lg.jpg 1024w ,https://zukunft-le.de/media/posts/33/responsive/kita-uebersicht-xl.jpg 1360w ,https://zukunft-le.de/media/posts/33/responsive/kita-uebersicht-2xl.jpg 1600w"  height="810" width="2582" alt="" />
       <figcaption>Liste der Öffnungszeiten der städtischen Einrichtungen in LE</figcaption>
     </figure>
