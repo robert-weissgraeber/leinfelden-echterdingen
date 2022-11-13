@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Zukunft LE</title>
     <link href="https://zukunft-le.de/feed.xml" rel="self" />
     <link href="https://zukunft-le.de" />
@@ -16,6 +16,7 @@
         </author>
         <link href="https://zukunft-le.de/personalnot-kita-leinfelden-echterdingen/"/>
         <id>https://zukunft-le.de/personalnot-kita-leinfelden-echterdingen/</id>
+        <media:content url="https://zukunft-le.de/media/posts/36/writing-newspaper-money-paper-close-up-brand-937591-pxhere.com.jpg" medium="image" />
             <category term="Medienecho"/>
 
         <updated>2022-11-13T15:23:13+01:00</updated>
@@ -27,7 +28,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://zukunft-le.de/media/posts/36/writing-newspaper-money-paper-close-up-brand-937591-pxhere.com.jpg" alt="" />
+                    <p><img src="https://zukunft-le.de/media/posts/36/writing-newspaper-money-paper-close-up-brand-937591-pxhere.com.jpg" class="type:primaryImage" alt="" /></p>
                 
     <figure class="blockquote">
       <blockquote>"Die Stadt Leinfelden-Echterdingen kündigt drastische Kürzungen der Betreuungszeiten in den Kinderhäusern Gärtlesäcker, Waldhorn und Regenbogen an."<br><br>"In einem Brief, informiert die Stadt darüber, dass die Familien ihren Nachwuchs von Januar an bis auf Weiteres bereits um 14 Uhr abholen müssen und erst um 8 Uhr bringen können. Damit werden in dieser Kita nicht mehr, wie in der Vergangenheit, zehn Stunden Betreuungszeit, sondern nur noch sechs Stunden angeboten."</blockquote>
@@ -156,6 +157,7 @@ Fangen Sie an auf die unterschiedlichen Betroffenen und Beteiligten wirklich zu 
         </author>
         <link href="https://zukunft-le.de/krankenstand-erzieher-leinfelden-echterdingen/"/>
         <id>https://zukunft-le.de/krankenstand-erzieher-leinfelden-echterdingen/</id>
+        <media:content url="https://zukunft-le.de/media/posts/34/maria-teneva-vf4O1OwtPnk-unsplash.jpg" medium="image" />
             <category term="Fakten"/>
 
         <updated>2022-10-29T20:26:05+02:00</updated>
@@ -167,7 +169,7 @@ Fangen Sie an auf die unterschiedlichen Betroffenen und Beteiligten wirklich zu 
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://zukunft-le.de/media/posts/34/maria-teneva-vf4O1OwtPnk-unsplash.jpg" alt="" />
+                    <p><img src="https://zukunft-le.de/media/posts/34/maria-teneva-vf4O1OwtPnk-unsplash.jpg" class="type:primaryImage" alt="" /></p>
                 
   <p>
     Als Grund für den Rückbau der Kinderbetreuung zieht sich der Gemeinderat LE und die Verwaltung gerne auf die Position zurück, das Problem sei durch den Fachkräftemangel verursacht.<br><br>Hier nimmt die Stadt&nbsp;<b>eine Opferrolle ein, die nicht den Fakten entspricht</b>.<br><br>Auch wenn der <b>Fachkräftemangel</b>&nbsp;die Suche nach Personal erschwert hat, (wie in anderen Sektoren auch), ist er dennoch <b>nur ein Teil des Problems.<br></b><br><mark>Das <b>Kernproblem ist hausgemacht</b>, und Ursache und Lösung in der Stadt selbst zu suchen: <b><i>der Umgang mit dem Bestandspersonal</i></b>.</mark>
@@ -182,7 +184,7 @@ Fangen Sie an auf die unterschiedlichen Betroffenen und Beteiligten wirklich zu 
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://zukunft-le.de/media/posts/34/vks-krankenstand.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://zukunft-le.de/media/posts/34/responsive/vks-krankenstand-xs.jpg 300w ,https://zukunft-le.de/media/posts/34/responsive/vks-krankenstand-sm.jpg 480w ,https://zukunft-le.de/media/posts/34/responsive/vks-krankenstand-md.jpg 768w ,https://zukunft-le.de/media/posts/34/responsive/vks-krankenstand-lg.jpg 1024w ,https://zukunft-le.de/media/posts/34/responsive/vks-krankenstand-xl.jpg 1360w ,https://zukunft-le.de/media/posts/34/responsive/vks-krankenstand-2xl.jpg 1600w"  height="1756" width="3076" alt="" />
+      <img loading="lazy" src="https://zukunft-le.de/media/posts/34/vks-krankenstand.jpg" height="1756" width="3076" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://zukunft-le.de/media/posts/34/responsive/vks-krankenstand-xs.webp 300w ,https://zukunft-le.de/media/posts/34/responsive/vks-krankenstand-sm.webp 480w ,https://zukunft-le.de/media/posts/34/responsive/vks-krankenstand-md.webp 768w ,https://zukunft-le.de/media/posts/34/responsive/vks-krankenstand-lg.webp 1024w ,https://zukunft-le.de/media/posts/34/responsive/vks-krankenstand-xl.webp 1360w ,https://zukunft-le.de/media/posts/34/responsive/vks-krankenstand-2xl.webp 1600w">
       <figcaption>Quelle: Bericht der Stadt im VKS Ausschuß April 2021</figcaption>
     </figure>
 
@@ -224,12 +226,12 @@ Fangen Sie an auf die unterschiedlichen Betroffenen und Beteiligten wirklich zu 
     <div class="gallery" data-columns="2">
       <figure class="gallery__item">
       <a href="https://zukunft-le.de/media/posts/34/gallery/bkk-1b.jpg" data-size="1764x1035">
-        <img loading="lazy" src="https://zukunft-le.de/media/posts/34/gallery/bkk-1b-thumbnail.jpg" height="451" width="768" alt="" />
+        <img loading="lazy" src="https://zukunft-le.de/media/posts/34/gallery/bkk-1b-thumbnail.webp" height="451" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
       <a href="https://zukunft-le.de/media/posts/34/gallery/bkk-2.jpg" data-size="1657x1062">
-        <img loading="lazy" src="https://zukunft-le.de/media/posts/34/gallery/bkk-2-thumbnail.jpg" height="492" width="768" alt="" />
+        <img loading="lazy" src="https://zukunft-le.de/media/posts/34/gallery/bkk-2-thumbnail.webp" height="492" width="768" alt="" >
       </a>
       
     </figure>
@@ -252,12 +254,12 @@ Fangen Sie an auf die unterschiedlichen Betroffenen und Beteiligten wirklich zu 
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
       <a href="https://zukunft-le.de/media/posts/34/gallery/iaq.jpg" data-size="2046x1302">
-        <img loading="lazy" src="https://zukunft-le.de/media/posts/34/gallery/iaq-thumbnail.jpg" height="489" width="768" alt="" />
+        <img loading="lazy" src="https://zukunft-le.de/media/posts/34/gallery/iaq-thumbnail.webp" height="489" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
       <a href="https://zukunft-le.de/media/posts/34/gallery/krankenstand.jpg" data-size="902x572">
-        <img loading="lazy" src="https://zukunft-le.de/media/posts/34/gallery/krankenstand-thumbnail.jpg" height="487" width="768" alt="" />
+        <img loading="lazy" src="https://zukunft-le.de/media/posts/34/gallery/krankenstand-thumbnail.webp" height="487" width="768" alt="" >
       </a>
       
     </figure>
@@ -333,6 +335,7 @@ Fangen Sie an auf die unterschiedlichen Betroffenen und Beteiligten wirklich zu 
         </author>
         <link href="https://zukunft-le.de/60-prozent-rueckbau-der-staedtischen-kinderbetreuung/"/>
         <id>https://zukunft-le.de/60-prozent-rueckbau-der-staedtischen-kinderbetreuung/</id>
+        <media:content url="https://zukunft-le.de/media/posts/33/kelly-sikkema-VlW-iHf_MAk-unsplash.jpg" medium="image" />
             <category term="Fakten"/>
 
         <updated>2022-11-08T10:39:36+01:00</updated>
@@ -344,7 +347,7 @@ Fangen Sie an auf die unterschiedlichen Betroffenen und Beteiligten wirklich zu 
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://zukunft-le.de/media/posts/33/kelly-sikkema-VlW-iHf_MAk-unsplash.jpg" alt="" />
+                    <p><img src="https://zukunft-le.de/media/posts/33/kelly-sikkema-VlW-iHf_MAk-unsplash.jpg" class="type:primaryImage" alt="" /></p>
                 
   <p>
     Um den Rückbau der städtischen Kinderbetreuung in Leinfelden-Echterdingen in den letzten Jahren <b>in Zahlen zu fassen</b>, kann man die heutigen Öffnungszeiten mit den ursprünglichen Öffnungszeiten der städtischen Einrichtungen vergleichen.
@@ -383,7 +386,7 @@ Fangen Sie an auf die unterschiedlichen Betroffenen und Beteiligten wirklich zu 
   </p>
 
     <figure class="post__image post__image--wide">
-      <img loading="lazy" src="https://zukunft-le.de/media/posts/33/kita-uebersicht.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://zukunft-le.de/media/posts/33/responsive/kita-uebersicht-xs.jpg 300w ,https://zukunft-le.de/media/posts/33/responsive/kita-uebersicht-sm.jpg 480w ,https://zukunft-le.de/media/posts/33/responsive/kita-uebersicht-md.jpg 768w ,https://zukunft-le.de/media/posts/33/responsive/kita-uebersicht-lg.jpg 1024w ,https://zukunft-le.de/media/posts/33/responsive/kita-uebersicht-xl.jpg 1360w ,https://zukunft-le.de/media/posts/33/responsive/kita-uebersicht-2xl.jpg 1600w"  height="810" width="2582" alt="" />
+      <img loading="lazy" src="https://zukunft-le.de/media/posts/33/kita-uebersicht.jpg" height="810" width="2582" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://zukunft-le.de/media/posts/33/responsive/kita-uebersicht-xs.webp 300w ,https://zukunft-le.de/media/posts/33/responsive/kita-uebersicht-sm.webp 480w ,https://zukunft-le.de/media/posts/33/responsive/kita-uebersicht-md.webp 768w ,https://zukunft-le.de/media/posts/33/responsive/kita-uebersicht-lg.webp 1024w ,https://zukunft-le.de/media/posts/33/responsive/kita-uebersicht-xl.webp 1360w ,https://zukunft-le.de/media/posts/33/responsive/kita-uebersicht-2xl.webp 1600w">
       <figcaption>Liste der Öffnungszeiten der städtischen Einrichtungen in LE</figcaption>
     </figure>
 
@@ -468,6 +471,7 @@ Fangen Sie an auf die unterschiedlichen Betroffenen und Beteiligten wirklich zu 
         </author>
         <link href="https://zukunft-le.de/stuttgarter-zeitung-viele-familien-brauchen-einen-plan-b-4/"/>
         <id>https://zukunft-le.de/stuttgarter-zeitung-viele-familien-brauchen-einen-plan-b-4/</id>
+        <media:content url="https://zukunft-le.de/media/posts/32/writing-newspaper-money-paper-close-up-brand-937591-pxhere.com.jpg" medium="image" />
             <category term="Medienecho"/>
 
         <updated>2022-10-23T10:43:50+02:00</updated>
@@ -479,7 +483,7 @@ Fangen Sie an auf die unterschiedlichen Betroffenen und Beteiligten wirklich zu 
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://zukunft-le.de/media/posts/32/writing-newspaper-money-paper-close-up-brand-937591-pxhere.com.jpg" alt="" />
+                    <p><img src="https://zukunft-le.de/media/posts/32/writing-newspaper-money-paper-close-up-brand-937591-pxhere.com.jpg" class="type:primaryImage" alt="" /></p>
                 
     <figure class="blockquote">
       <blockquote>"304 Betreuungsplätze fehlen stadtweit. Die Stadtverwaltung und der Gemeinderat unternehmen den Eltern nach zu wenig, die bereits umgesetzten Maßnahmen würden nicht greifen."</blockquote>
@@ -503,6 +507,7 @@ Fangen Sie an auf die unterschiedlichen Betroffenen und Beteiligten wirklich zu 
         </author>
         <link href="https://zukunft-le.de/demonstration-2-1810-in-echterdingen-die-zukunft-von-304-kindern-in-le-weggeblasen/"/>
         <id>https://zukunft-le.de/demonstration-2-1810-in-echterdingen-die-zukunft-von-304-kindern-in-le-weggeblasen/</id>
+        <media:content url="https://zukunft-le.de/media/posts/29/Untitled-6.jpg" medium="image" />
             <category term="Aktionen"/>
 
         <updated>2022-10-23T10:43:41+02:00</updated>
@@ -514,7 +519,7 @@ Fangen Sie an auf die unterschiedlichen Betroffenen und Beteiligten wirklich zu 
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://zukunft-le.de/media/posts/29/Untitled-6.jpg" alt="" />
+                    <p><img src="https://zukunft-le.de/media/posts/29/Untitled-6.jpg" class="type:primaryImage" alt="" /></p>
                 
   <p>
     <b>Medienecho</b>:
@@ -586,6 +591,7 @@ Fangen Sie an auf die unterschiedlichen Betroffenen und Beteiligten wirklich zu 
         </author>
         <link href="https://zukunft-le.de/stuttgarter-zeitung-viele-familien-brauchen-einen-plan-b-3/"/>
         <id>https://zukunft-le.de/stuttgarter-zeitung-viele-familien-brauchen-einen-plan-b-3/</id>
+        <media:content url="https://zukunft-le.de/media/posts/31/writing-newspaper-money-paper-close-up-brand-937591-pxhere.com.jpg" medium="image" />
             <category term="Medienecho"/>
 
         <updated>2022-10-12T11:05:10+02:00</updated>
@@ -597,7 +603,7 @@ Fangen Sie an auf die unterschiedlichen Betroffenen und Beteiligten wirklich zu 
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://zukunft-le.de/media/posts/31/writing-newspaper-money-paper-close-up-brand-937591-pxhere.com.jpg" alt="" />
+                    <p><img src="https://zukunft-le.de/media/posts/31/writing-newspaper-money-paper-close-up-brand-937591-pxhere.com.jpg" class="type:primaryImage" alt="" /></p>
                 
     <figure class="blockquote">
       <blockquote>Der kurzfristige Aufnahmestopp in der Leinfelder Kita sei kein Einzelfall mehr im Stadtgebiet."</blockquote>
@@ -621,6 +627,7 @@ Fangen Sie an auf die unterschiedlichen Betroffenen und Beteiligten wirklich zu 
         </author>
         <link href="https://zukunft-le.de/stuttgarter-zeitung-viele-familien-brauchen-einen-plan-b-2/"/>
         <id>https://zukunft-le.de/stuttgarter-zeitung-viele-familien-brauchen-einen-plan-b-2/</id>
+        <media:content url="https://zukunft-le.de/media/posts/30/writing-newspaper-money-paper-close-up-brand-937591-pxhere.com.jpg" medium="image" />
             <category term="Medienecho"/>
 
         <updated>2022-10-23T10:56:10+02:00</updated>
@@ -632,7 +639,7 @@ Fangen Sie an auf die unterschiedlichen Betroffenen und Beteiligten wirklich zu 
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://zukunft-le.de/media/posts/30/writing-newspaper-money-paper-close-up-brand-937591-pxhere.com.jpg" alt="" />
+                    <p><img src="https://zukunft-le.de/media/posts/30/writing-newspaper-money-paper-close-up-brand-937591-pxhere.com.jpg" class="type:primaryImage" alt="" /></p>
                 
     <figure class="blockquote">
       <blockquote>Für 304 Kinder in Leinfelden-Echterdingen gibt es aktuell keinen Betreuungsplatz in einer städtischen Kita, obwohl die Familien dringend einen bräuchten</blockquote>
@@ -656,6 +663,7 @@ Fangen Sie an auf die unterschiedlichen Betroffenen und Beteiligten wirklich zu 
         </author>
         <link href="https://zukunft-le.de/position-der-gemeinderatsfraktionen-gegen-die-eltern/"/>
         <id>https://zukunft-le.de/position-der-gemeinderatsfraktionen-gegen-die-eltern/</id>
+        <media:content url="https://zukunft-le.de/media/posts/28/arnaud-jaegers-IBWJsMObnnU-unsplash.jpg" medium="image" />
             <category term="Grüne"/>
             <category term="Gemeinderäte"/>
             <category term="Freie Wähler / FDP"/>
@@ -669,7 +677,7 @@ Fangen Sie an auf die unterschiedlichen Betroffenen und Beteiligten wirklich zu 
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://zukunft-le.de/media/posts/28/arnaud-jaegers-IBWJsMObnnU-unsplash.jpg" alt="" />
+                    <p><img src="https://zukunft-le.de/media/posts/28/arnaud-jaegers-IBWJsMObnnU-unsplash.jpg" class="type:primaryImage" alt="" /></p>
                 
   <p>
     Leider hat die Politik des Rückbaus der Kinderbetreuung von OB Klenk und BM Kalbfell ausführlichen Rückhalt im Gemeinderat.
@@ -692,7 +700,7 @@ Fangen Sie an auf die unterschiedlichen Betroffenen und Beteiligten wirklich zu 
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://zukunft-le.de/media/posts/28/armbruster.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://zukunft-le.de/media/posts/28/responsive/armbruster-xs.jpg 300w ,https://zukunft-le.de/media/posts/28/responsive/armbruster-sm.jpg 480w ,https://zukunft-le.de/media/posts/28/responsive/armbruster-md.jpg 768w ,https://zukunft-le.de/media/posts/28/responsive/armbruster-lg.jpg 1024w ,https://zukunft-le.de/media/posts/28/responsive/armbruster-xl.jpg 1360w ,https://zukunft-le.de/media/posts/28/responsive/armbruster-2xl.jpg 1600w"  height="146" width="652" alt="" />
+      <img loading="lazy" src="https://zukunft-le.de/media/posts/28/armbruster.jpg" height="146" width="652" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://zukunft-le.de/media/posts/28/responsive/armbruster-xs.webp 300w ,https://zukunft-le.de/media/posts/28/responsive/armbruster-sm.webp 480w ,https://zukunft-le.de/media/posts/28/responsive/armbruster-md.webp 768w ,https://zukunft-le.de/media/posts/28/responsive/armbruster-lg.webp 1024w ,https://zukunft-le.de/media/posts/28/responsive/armbruster-xl.webp 1360w ,https://zukunft-le.de/media/posts/28/responsive/armbruster-2xl.webp 1600w">
       <figcaption>Stellungnahme der Grünen zu den Zielen der Kinderbetreuung für LE, Amtsblatt KW28</figcaption>
     </figure>
 
@@ -725,6 +733,7 @@ Fangen Sie an auf die unterschiedlichen Betroffenen und Beteiligten wirklich zu 
         </author>
         <link href="https://zukunft-le.de/hr-kalbfell-bietet-eltern-weiterhin-apps-als-alternative-zur-kinderbetreuung-an/"/>
         <id>https://zukunft-le.de/hr-kalbfell-bietet-eltern-weiterhin-apps-als-alternative-zur-kinderbetreuung-an/</id>
+        <media:content url="https://zukunft-le.de/media/posts/27/FdMiQwIXkAI3kN5.jpeg" medium="image" />
             <category term="Bürgermeister:innen"/>
 
         <updated>2022-10-06T15:33:21+02:00</updated>
@@ -736,7 +745,7 @@ Fangen Sie an auf die unterschiedlichen Betroffenen und Beteiligten wirklich zu 
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://zukunft-le.de/media/posts/27/FdMiQwIXkAI3kN5.jpeg" alt="" />
+                    <p><img src="https://zukunft-le.de/media/posts/27/FdMiQwIXkAI3kN5.jpeg" class="type:primaryImage" alt="" /></p>
                 
     <h3 id="dialog-mit-ca-100-teilnehmerinnen">
       Dialog mit ca. 100 Teilnehmer:innen
