@@ -10,6 +10,23 @@
     },
     "items": [
         {
+            "id": "https://zukunft-le.de/kandidatinnen-vorstellung-der-ob-wahl-leinfelden-echterdingen/",
+            "url": "https://zukunft-le.de/kandidatinnen-vorstellung-der-ob-wahl-leinfelden-echterdingen/",
+            "title": "28.11.  Für euch Live – Interaktiv und Online",
+            "summary": "Die Kandidat:innen der OB Wahl Leinfelden-Echterdingen stellen sich euch vor und stellen sich euren Fragen Paneldiskussion zum Thema Kinderbetreuung&hellip;",
+            "content_html": "\n    <h2 id=\"die-kandidatinnen-der-ob-wahl-leinfelden-echterdingen-stellen-sich-euch-vor\">\n      Die Kandidat:innen der OB Wahl Leinfelden-Echterdingen stellen sich euch vor\n    </h2>\n\n    <h3 id=\"und-stellen-sich-euren-fragen\">\n      und stellen sich euren Fragen\n    </h3>\n\n  <p>\n    \n  </p>\n\n  <ul>\n    <li><strong>am 28.11. um 19:30 via Zoom –&nbsp;</strong><strong style=\"font-family: var(--editor-font-family); font-size: 1em; background-color: ; font-style: ; font-variant-ligatures: ; font-variant-caps: ;\">Jetzt registrieren:&nbsp;<a href=\"https://us06web.zoom.us/webinar/register/9016996051308/WN_Bq_V26PbQTKYEH7pXMlDjA\" target=\"_blank\">https://us06web.zoom.us/webinar/register/9016996051308/WN_Bq_V26PbQTKYEH7pXMlDjA</a></strong></li><li><a href=\"https://us06web.zoom.us/webinar/register/9016996051308/WN_Bq_V26PbQTKYEH7pXMlDjA\" target=\"_blank\"></a></li>\n  </ul>\n\n    <h3 id=\"online-panel-zur-ob-wahl\">\n      Online Panel zur OB Wahl\n    </h3>\n\n  <p>\n    Paneldiskussion zum Thema Kinderbetreuung – Vorstellung der Kandidat:innen der Wahl zur Oberbürgermeister:in in Leinfelden-Echterdingen am 3.12.2023<br><br>Live dabei - für eure Fragen:<br>- David Armbruster<br>- Raiko Grieb<br>- Birgit Mertens<br>- Otto Ruppaner<br>- Sebastian Stahl<br><br>Wir haben die letzten 2 Jahre für eine bessere Kinderbetreuung in LE, und damit eine familienfreundlichere und fachkräfte-freundlichere Stadt gekämpft. <br><br>Jetzt steht <strong>die Wahl einer neue:n Oberbürgermeister:in</strong> an, und<strong> ihr könnt die Kandidat:innen befragen</strong>, ihre Positionen kennenlernen, und euch eine qualifizierte Meinung bilden wer am Besten für die Zukunft von LE sein wird! – und das via Zoom ganz bequem von zu Haus aus.\n  </p>",
+            "image": "https://zukunft-le.de/media/posts/46/Obwahl-LE-event-3.jpg",
+            "author": {
+                "name": "Robert Weißgraeber"
+            },
+            "tags": [
+                   "Bürgermeister:innen",
+                   "Aktionen"
+            ],
+            "date_published": "2023-11-10T09:35:13+01:00",
+            "date_modified": "2023-11-10T09:49:19+01:00"
+        },
+        {
             "id": "https://zukunft-le.de/vorlage-email-an-arbeitgeber/",
             "url": "https://zukunft-le.de/vorlage-email-an-arbeitgeber/",
             "title": "Vorlage Email an Arbeitgeber",
@@ -155,22 +172,6 @@
             ],
             "date_published": "2022-11-13T17:06:00+01:00",
             "date_modified": "2022-11-13T20:06:00+01:00"
-        },
-        {
-            "id": "https://zukunft-le.de/personalnot-kita-leinfelden-echterdingen/",
-            "url": "https://zukunft-le.de/personalnot-kita-leinfelden-echterdingen/",
-            "title": "Personalnot spitzt sich zu: &quot;Dammbruch in den Kindertageseinrichtungen&quot;",
-            "summary": "\"Die Stadt Leinfelden-Echterdingen kündigt drastische Kürzungen der Betreuungszeiten in den Kinderhäusern Gärtlesäcker, Waldhorn und Regenbogen an.\" \"In einem Brief,&hellip;",
-            "content_html": "\n    <figure class=\"blockquote\">\n      <blockquote>\"Die Stadt Leinfelden-Echterdingen kündigt drastische Kürzungen der Betreuungszeiten in den Kinderhäusern Gärtlesäcker, Waldhorn und Regenbogen an.\"<br><br>\"In einem Brief, informiert die Stadt darüber, dass die Familien ihren Nachwuchs von Januar an bis auf Weiteres bereits um 14 Uhr abholen müssen und erst um 8 Uhr bringen können. Damit werden in dieser Kita nicht mehr, wie in der Vergangenheit, zehn Stunden Betreuungszeit, sondern nur noch sechs Stunden angeboten.\"</blockquote>\n      <figcaption>Esslinger Zeitung</figcaption>\n    </figure>\n\n  <p>\n    <a href=\"https://www.esslinger-zeitung.de/inhalt.kitas-in-leinfelden-echterdingen-personalnot-spitzt-sich-weiter-zu.9426af98-3bce-499b-8ac3-daa3bf652970.html\" class=\"\">Quelle</a><br>\n  </p>\n\n  <p>\n    \n  </p>",
-            "image": "https://zukunft-le.de/media/posts/36/writing-newspaper-money-paper-close-up-brand-937591-pxhere.com.jpg",
-            "author": {
-                "name": "Robert Weißgraeber"
-            },
-            "tags": [
-                   "Medienecho"
-            ],
-            "date_published": "2022-11-13T14:41:55+01:00",
-            "date_modified": "2022-11-13T15:23:13+01:00"
         }
     ]
 }
