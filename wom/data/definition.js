@@ -312,7 +312,7 @@ const design = ["default.css","buttons-colors-on.css", "progressbar.css"];
 
 */
 
-const addons = [wom/extras/addon_check_iframe_resize_client.js]
+const addons = []
 
 
 //	2.4 Sprache / Language
