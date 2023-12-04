@@ -295,6 +295,8 @@ const design = ["default.css","buttons-colors-on.css", "progressbar.css"];
 	********************************************************************
 
 	const addons = ["extras/addon_results_textfilter_by_button.js"]
+
+
 	const addons = ["extras/addon_results_textfilter_by_button.js", "extras/addon_check_iframe_resize_client.js", "extras/addon_limit_results.js", "extras/addon_favorite_party.js", "extras/addon_show_first_results.js"]
 	const addons = []
 	const addons = ["my_folder/my_file.js"]	
@@ -310,7 +312,7 @@ const design = ["default.css","buttons-colors-on.css", "progressbar.css"];
 
 */
 
-const addons = []
+const addons = [extras/addon_check_iframe_resize_client.js]
 
 
 //	2.4 Sprache / Language
