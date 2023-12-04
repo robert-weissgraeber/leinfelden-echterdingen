@@ -3,7 +3,7 @@
     <title>LEere Versprechen</title>
     <link href="https://zukunft-le.de/feed.xml" rel="self" />
     <link href="https://zukunft-le.de" />
-    <updated>2023-12-04T12:33:05+01:00</updated>
+    <updated>2023-12-04T12:44:27+01:00</updated>
     <author>
         <name>Robert Weißgraeber</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://zukunft-le.de/wahl-o-mat/"/>
         <id>https://zukunft-le.de/wahl-o-mat/</id>
 
-        <updated>2023-12-04T12:33:05+01:00</updated>
+        <updated>2023-12-04T12:44:27+01:00</updated>
             <summary>
                 <![CDATA[
                     document.getElementById("myIframe").addEventListener( "load", function() { fnMatoWahlIframeEventListener("myIframe"); } ); &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&hellip;
@@ -25,23 +25,19 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <div>
-<div>
-<script src="https://zukunft-le.de/wom/extras/addon_check_iframe_resize_host.js"></script>
-
-<div class="post__iframe"><iframe id="myIframe" src="https://zukunft-le.de/wom/index.html" style="min-width:100%;" loading="lazy">
-</iframe></div>
-
+                <div><div>
+<iframe loading="lazy" id="myIframe"
+    src="https://zukunft-le.de/wom/index.html"
+    style="min-width:100%; height:1000px; border: none; width:100%"    
+    loading="lazy"
+    >
+</iframe>
 <script type="text/javascript">
 document.getElementById("myIframe").addEventListener( "load", function() { fnMatoWahlIframeEventListener("myIframe"); } );
 </script>
 
 
-
-</div>
-
-
-</div>
+</div></div>
 
   <p>
     &nbsp;&nbsp;

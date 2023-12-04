@@ -14,14 +14,14 @@
             "url": "https://zukunft-le.de/wahl-o-mat/",
             "title": "Wahl-O-Mat Leinfelden-Echterdingen",
             "summary": "document.getElementById(\"myIframe\").addEventListener( \"load\", function() { fnMatoWahlIframeEventListener(\"myIframe\"); } ); &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&hellip;",
-            "content_html": "<div>\n<div>\n<script src=\"https://zukunft-le.de/wom/extras/addon_check_iframe_resize_host.js\"></script>\n\n<div class=\"post__iframe\"><iframe id=\"myIframe\" src=\"https://zukunft-le.de/wom/index.html\" style=\"min-width:100%;\" loading=\"lazy\">\n</iframe></div>\n\n<script type=\"text/javascript\">\ndocument.getElementById(\"myIframe\").addEventListener( \"load\", function() { fnMatoWahlIframeEventListener(\"myIframe\"); } );\n</script>\n\n\n\n</div>\n\n\n</div>\n\n  <p>\n    &nbsp;&nbsp;\n  </p>\n\n  <p>\n    &nbsp; &nbsp;\n  </p>\n\n  <p>\n    &nbsp;&nbsp;\n  </p>\n\n  <p>\n    &nbsp;&nbsp;\n  </p>\n\n  <p>\n    &nbsp;&nbsp;\n  </p>\n\n  <p>\n    &nbsp;&nbsp;\n  </p>\n\n  <p>\n    &nbsp;&nbsp;\n  </p>\n\n  <p>\n    &nbsp;&nbsp;\n  </p>\n\n  <p>\n    &nbsp;&nbsp;\n  </p>\n\n  <p>\n    &nbsp;&nbsp;\n  </p>\n\n    <h2 id=\"andnbspandnbsp\">\n      &nbsp;&nbsp;\n    </h2>\n\n  <p>\n    &nbsp;&nbsp;\n  </p>\n\n  <p>\n    &nbsp;&nbsp;\n  </p>\n\n  <p>\n    &nbsp;&nbsp;\n  </p>\n\n  <p>\n    \n  </p>\n\n  <p>\n    \n  </p>\n\n  <p>\n    \n  </p>\n\n  <p>\n    &nbsp;&nbsp;\n  </p>",
+            "content_html": "<div><div>\n<iframe loading=\"lazy\" id=\"myIframe\"\n    src=\"https://zukunft-le.de/wom/index.html\"\n    style=\"min-width:100%; height:1000px; border: none; width:100%\"    \n    loading=\"lazy\"\n    >\n</iframe>\n<script type=\"text/javascript\">\ndocument.getElementById(\"myIframe\").addEventListener( \"load\", function() { fnMatoWahlIframeEventListener(\"myIframe\"); } );\n</script>\n\n\n</div></div>\n\n  <p>\n    &nbsp;&nbsp;\n  </p>\n\n  <p>\n    &nbsp; &nbsp;\n  </p>\n\n  <p>\n    &nbsp;&nbsp;\n  </p>\n\n  <p>\n    &nbsp;&nbsp;\n  </p>\n\n  <p>\n    &nbsp;&nbsp;\n  </p>\n\n  <p>\n    &nbsp;&nbsp;\n  </p>\n\n  <p>\n    &nbsp;&nbsp;\n  </p>\n\n  <p>\n    &nbsp;&nbsp;\n  </p>\n\n  <p>\n    &nbsp;&nbsp;\n  </p>\n\n  <p>\n    &nbsp;&nbsp;\n  </p>\n\n    <h2 id=\"andnbspandnbsp\">\n      &nbsp;&nbsp;\n    </h2>\n\n  <p>\n    &nbsp;&nbsp;\n  </p>\n\n  <p>\n    &nbsp;&nbsp;\n  </p>\n\n  <p>\n    &nbsp;&nbsp;\n  </p>\n\n  <p>\n    \n  </p>\n\n  <p>\n    \n  </p>\n\n  <p>\n    \n  </p>\n\n  <p>\n    &nbsp;&nbsp;\n  </p>",
             "author": {
                 "name": "Robert Weißgraeber"
             },
             "tags": [
             ],
             "date_published": "2023-12-04T10:36:49+01:00",
-            "date_modified": "2023-12-04T12:33:05+01:00"
+            "date_modified": "2023-12-04T12:44:27+01:00"
         },
         {
             "id": "https://zukunft-le.de/ob-wahl-leinfelden-echterdingen/",
