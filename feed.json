@@ -13,14 +13,14 @@
             "id": "https://zukunft-le.de/wahl-o-mat/",
             "url": "https://zukunft-le.de/wahl-o-mat/",
             "title": "Wahl-O-Mat Leinfelden-Echterdingen",
-            "content_html": "<div><iframe loading=\"lazy\"   id=\"inlineFrameExample\"\n  title=\"Wahlomat OB Wahl LE\"\"\n  width=\"800\"\n  height=\"1000\"\n  style=\"border:none\"\n  src=\"https://zukunft-le.de/wom/index.html\">\n</iframe>\n\n\n</div>\n\n  <p>\n    \n  </p>",
+            "content_html": "<div>\n<div\n  id=\"Container\"\n  style=\"padding-bottom:86.25%; position:relative; display:block; width: 100%\"\n>\n  <iframe loading=\"lazy\"     id=\"UstreamIframe\"\n    src=\"https://zukunft-le.de/wom/index.html\"\n    width=\"100%\" height=\"2800pt\"\n    style=\"position:absolute; top:0; left: 0\"\n    allowfullscreen\n    webkitallowfullscreen\n    frameborder=\"0\"    referrerpolicy=\"no-referrer-when-downgrade\"\n  >\n  </iframe>\n</div>\n\n\n\n\n\n</div>\n\n  <p>\n    \n  </p>",
             "author": {
                 "name": "Robert Weißgraeber"
             },
             "tags": [
             ],
             "date_published": "2023-12-04T10:36:49+01:00",
-            "date_modified": "2023-12-04T10:45:28+01:00"
+            "date_modified": "2023-12-04T10:55:33+01:00"
         },
         {
             "id": "https://zukunft-le.de/ob-wahl-leinfelden-echterdingen/",
