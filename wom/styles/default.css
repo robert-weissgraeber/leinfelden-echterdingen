@@ -2,7 +2,7 @@
 /* BODY: Hintergrundfarbe, Schriftart, -groesse und -farbe */
 /* BODY: background color, font, size and color */
 body {
-	font-family:Verdana, Arial, Helvetica, sans-serif; 
+	font-family:-apple-system, "system-ui", "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; 
 /*	font-size:10pt; */
 	color:#000000; 
 
