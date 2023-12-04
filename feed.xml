@@ -3,7 +3,7 @@
     <title>LEere Versprechen</title>
     <link href="https://zukunft-le.de/feed.xml" rel="self" />
     <link href="https://zukunft-le.de" />
-    <updated>2023-12-04T10:40:14+01:00</updated>
+    <updated>2023-12-04T10:45:28+01:00</updated>
     <author>
         <name>Robert Weißgraeber</name>
     </author>
@@ -17,11 +17,19 @@
         <link href="https://zukunft-le.de/wahl-o-mat/"/>
         <id>https://zukunft-le.de/wahl-o-mat/</id>
 
-        <updated>2023-12-04T10:40:14+01:00</updated>
+        <updated>2023-12-04T10:45:28+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                <div><div class="post__iframe"><iframe loading="lazy" src="https://zukunft-le.de/wom/index.html" title="Wahlomat OB Wahl LE"></iframe></div>
+                <div><iframe loading="lazy"   id="inlineFrameExample"
+  title="Wahlomat OB Wahl LE""
+  width="800"
+  height="1000"
+  style="border:none"
+  src="https://zukunft-le.de/wom/index.html">
+</iframe>
+
+
 </div>
 
   <p>
