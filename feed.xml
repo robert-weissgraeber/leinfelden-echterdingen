@@ -3,21 +3,21 @@
     <title>LEere Versprechen</title>
     <link href="https://zukunft-le.de/feed.xml" rel="self" />
     <link href="https://zukunft-le.de" />
-    <updated>2023-12-04T12:44:27+01:00</updated>
+    <updated>2023-12-04T13:17:38+01:00</updated>
     <author>
         <name>Robert Weißgraeber</name>
     </author>
     <id>https://zukunft-le.de</id>
 
     <entry>
-        <title>Wahl-O-Mat Leinfelden-Echterdingen</title>
+        <title>Wahl-O-Mat für LE</title>
         <author>
             <name>Robert Weißgraeber</name>
         </author>
         <link href="https://zukunft-le.de/wahl-o-mat/"/>
         <id>https://zukunft-le.de/wahl-o-mat/</id>
 
-        <updated>2023-12-04T12:44:27+01:00</updated>
+        <updated>2023-12-04T13:17:38+01:00</updated>
             <summary>
                 <![CDATA[
                     document.getElementById("myIframe").addEventListener( "load", function() { fnMatoWahlIframeEventListener("myIframe"); } ); &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&hellip;

@@ -141,7 +141,7 @@ const descriptionHeading1 = "OB Wahl LE: Ruppaner vs. Grieb";
 
 // 	1.6.3. Zweite Ueberschrift / 1.6.2. Second Headline
 
-const descriptionHeading2 = "Die Stichwahl zum Oberbürgermeister für Leinfelden-Echterdingen: Otto Ruppaner vs. Raiko Grieb";
+const descriptionHeading2 = "Die Stichwahl zum Oberbürgermeister für Leinfelden-Echterdingen";
 
 
 // 	1.6.4. Kurzer Text um was es bei der Wahl geht / 1.6.3. Short (descriptive) text on what's the election about
