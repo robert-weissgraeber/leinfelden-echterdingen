@@ -310,7 +310,7 @@ const design = ["default.css","buttons-colors-on.css", "progressbar.css"];
 
 */
 
-// const addons = ["https://zukunft-le.de/wom/extras/addon_check_iframe_resize_client.js"]
+const addons = ["https://zukunft-le.de/wom/extras/addon_check_iframe_resize_client.js"]
 
 
 //	2.4 Sprache / Language
