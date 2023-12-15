@@ -3,7 +3,7 @@
     <title>LEere Versprechen</title>
     <link href="https://zukunft-le.de/feed.xml" rel="self" />
     <link href="https://zukunft-le.de" />
-    <updated>2023-12-15T06:37:54+01:00</updated>
+    <updated>2023-12-15T06:39:04+01:00</updated>
     <author>
         <name>Robert Weißgraeber</name>
     </author>
@@ -17,8 +17,10 @@
         <link href="https://zukunft-le.de/wahlaufruf-eltern-waehlen-raiko-grieb/"/>
         <id>https://zukunft-le.de/wahlaufruf-eltern-waehlen-raiko-grieb/</id>
         <media:content url="https://zukunft-le.de/media/posts/49/wahlaufruf_grieb.gif" medium="image" />
+            <category term="Position"/>
+            <category term="Aktionen"/>
 
-        <updated>2023-12-15T06:37:54+01:00</updated>
+        <updated>2023-12-15T06:39:04+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://zukunft-le.de/media/posts/49/wahlaufruf_grieb.gif" alt="" />
